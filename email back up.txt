@@ -1,0 +1,112 @@
+TWISMO – DC Merch 
+To: LVFurniture@wsgc.com
+Subject Line: TWISMO | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s): 
+ETA Date noted on OMS: 
+Days Past ETA: 
+Date Merchandise Shipped: 
+Current Tracking – Carton/Container# 
+Please advise of shipping / delivery status for SKU ____________ , on Order ______________. Merchandise invoiced DD / MM / YY, with ETA to Hub of DD / MM / YY. Tracking indicates merchandise shipped via [Provide Container number]. 
+ 
+
+TWISMO DS Merchandise
+To: LVFurniture@wsgc.com
+Subject Line: TWISMO | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s): 
+ETA Date noted on OMS: 
+Days Past ETA: 
+Date Merchandise Shipped: 
+BOL #, Trailer #: 
+Please advise of shipping / delivery status for SKU ____________ , on Order ______________. Merchandise invoiced DD / MM / YY, with ETA to Hub of DD / MM / YY. Tracking indicates merchandise shipped via [BOL / Trailer numbers ]. 
+
+ 
+
+Incident – Reporting Driver Conduct or Behavior – No Call No Show
+To: LVFurniture@wsgc.com
+Subject Line: INCIDENT | Consolidation Hub | Order Number | Customer Last Name | Customer Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s) Involved: 
+Date of Delivery:
+Summary of Incident: 
+ 
+
+CLAIM INCIDENT
+To: LVFurniture@wsgc.com
+Subject Line: CLAIM INCIDENT | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s) Involved: 
+Date of Delivery:
+Property Damaged, Injury, Items Stolen:
+Date Damage was noticed:
+Damage Reported to Delivery Team Personnel: Yes ____  No ____ 
+Summary of Incident: 
+ 
+
+Assembly Request
+To: LVFurniture@wsgc.com
+Subject Line: ASSEMBLEY REQUEST | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s) needed assembly: 
+Summary of Need: (Missing Part, Poor or Missing Original Assembly, Miss-information at time of sale and type shipping) 
+ 
+
+REROUTE REQUEST
+To: LVFurniture@wsgc.com
+Subject Line: REROUTE REQUEST | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+Dear CCC Logistics, 
+Order Number: 
+SKU(s):
+Current Final Delivery Hub:  
+New Destination Hub:
+New Delivery Address: 
+Please reroute of shipping for SKU(s) ____________ , on Order ______________, to the new address above. Merchandise is B/O | D/S or | POS NLA and a replacement is not an option for this order.
+ 
+
+SPECIAL DELIVERY REQUEST
+To: LVFurniture@wsgc.com
+Subject Line: SPECIAL DELIVERY REQUEST | Consolidation Hub | Order Number | Customer Last Name | Customer Delivery Zip Code
+***Add Urgent if Urgent****
+Dear CCC Logistics, 
+Order Number: 
+SKU(s): 
+Delivery Date Requested:
+Or 
+Special Delivery Accommodations:
+ 
+
+UNLINKED SKUs
+To your Supervisor for Unlinked SKUs
+Please forward to MerchOpsLinkRequests@WSGC.com.
+Subject line: Concept, CAT CODE LINK, sku, order number, customer full name. (as appears on the order)
+EX Subject: WE CAT CODE LINK SKU 2319544 071857062952 THOMAS F MUENCH
+Concept/ Sku:
+
+Body of email:
+Dear MerchOps 
+
+Please  
+Reason, 
+Screen Shot,
+Your signature.
+
+ 
+
+UPS PICKUP EXCEPTION REQUEST
+To: Your supervisor asking for the exception
+Subject line: UPS Pick-Up | Brand | Order Number
+Dear Supervisor, 
+Order Number:
+Item SKU(s): 
+Item Weight (s):  
+Number of label/boxes:
+Pick-Up Address:
+Reason for the return:
+The exception (give detailed reason why):
+Your Signature
